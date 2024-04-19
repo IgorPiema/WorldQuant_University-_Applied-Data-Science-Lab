@@ -4,6 +4,9 @@ In each project, I have accessed data from files, SQL and NoSQL databases and AP
 Issued by [WorldQuant University.](https://www.wqu.edu/adsl-apply)
 
 The eight end-to-end projects are described below:    
+```diff
+
+```
 
 ### 1. HOUSING IN MEXICO:     
 Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
