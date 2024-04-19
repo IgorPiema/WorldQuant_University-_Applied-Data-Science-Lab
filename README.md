@@ -1,7 +1,7 @@
 # WorldQuant University - Applied-Data-Science-Lab
-I have earned the Applied Data Science Lab badge after I have completed eight end-to-end, applied data science projects. 
+I have earned a digital Applied Data Science Lab badge after I have completed eight end-to-end, applied data science projects. 
 In each project, I have accessed data from files, SQL and NoSQL databases and APIs. I have explored and cleaned data, created functions and ETL pipelines to prepare training sets. They have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.
-Issued by [WorldQuant University.](https://www.wqu.edu/adsl-apply) on [credly.com](https://www.credly.com/badges/77a8fbfb-d99e-4b61-9f44-11e4b52b4654/public_url)
+The baddge was issued by [WorldQuant University.](https://www.wqu.edu/adsl-apply) on [credly.com](https://www.credly.com/badges/77a8fbfb-d99e-4b61-9f44-11e4b52b4654/public_url)
 The eight end-to-end projects are described below:  
 
 
@@ -9,7 +9,7 @@ The eight end-to-end projects are described below:
 Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
    
 ### 2. APARTMENT SALES IN BUENOS AIRES:     
-Learners build a linear regression model to predict apartment prices in Argentina. They create a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
+The tasks consist in building a linear regression model to predict apartment prices in Argentina. i have created a data pipeline to impute missing values and encode categorical features, and improve model performance by reducing overfitting.
    
 ### 3. AIR QUALITY IN NAIROBI:    
 Learners build an ARMA time-series model to predict particulate matter levels in Kenya. They extract data from a MongoDB database using pymongo, and improve model performance through hyperparameter tuning.
