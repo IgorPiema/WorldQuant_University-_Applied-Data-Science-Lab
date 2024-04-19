@@ -5,14 +5,6 @@ Issued by [WorldQuant University.](https://www.wqu.edu/adsl-apply)
 
 The eight end-to-end projects are described below:    
 
-
-
-
-```diff
-Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded.
-For each assessment, student must score 90% or better.
-```
-
 ### 1. HOUSING IN MEXICO:     
 Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
    
