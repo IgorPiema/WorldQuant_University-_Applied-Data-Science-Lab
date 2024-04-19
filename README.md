@@ -3,9 +3,14 @@ I have earned the Applied Data Science Lab badge after I have completed eight en
 In each project, I have accessed data from files, SQL and NoSQL databases and APIs. I have explored and cleaned data, created functions and ETL pipelines to prepare training sets. They have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.
 Issued by [WorldQuant University.](https://www.wqu.edu/adsl-apply)
 
-The eight end-to-end projects are described below:    
+The eight end-to-end projects are described below:  
+
+
+
 ```diff
--Learners completed eight projects. Each project consists of four self-paced lessons, followed by an assignment that is -programmatically graded. For each assessment, students must score 90% or better.
++Learners completed eight projects.
++Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded.
++For each assessment, students must score 90% or better.
 
 ```
 
