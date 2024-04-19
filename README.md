@@ -5,12 +5,10 @@ Issued by [WorldQuant University.](https://www.wqu.edu/adsl-apply)
 
 The eight end-to-end projects are described below:  
 
-
-
 ```diff
-+Learners completed eight projects.
-+Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded.
-+For each assessment, students must score 90% or better.
+To earn the badge Learners must complete eight projects.
+Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded.
+For each assessment, students must score 90% or better.
 
 ```
 
