@@ -7,7 +7,7 @@ The eight end-to-end project are described below:
 
 Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded. For each assessment, students must score 90% or better.
 
-1. HOUSING IN MEXICO: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
+1. "HOUSING IN MEXICO": Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
    
 2. APARTMENT SALES IN BUENOS AIRES: Learners build a linear regression model to predict apartment prices in Argentina. They create a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
    
