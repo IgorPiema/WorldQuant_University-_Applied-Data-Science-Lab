@@ -6,8 +6,10 @@ Issued by [WorldQuant University.](https://www.wqu.edu/adsl-apply)
 The eight end-to-end projects are described below:    
 
 
+
+
 ```diff
-+ Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded.
+Each project consists of four self-paced lessons, followed by an assignment that is programmatically graded.
 For each assessment, student must score 90% or better.
 ```
 
